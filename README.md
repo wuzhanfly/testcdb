@@ -10,7 +10,7 @@ fabric网络尝试couchdb数据库查询功能！！！！！
 
 
 
-### 注意链码package 一定要依赖包以：main文件
+### 注意链码package 一定要依赖包以：main函数
 
 ![package](./img/package.png)
 
